@@ -7,18 +7,18 @@ This repository contains solutions for the [HackerRank 1 Month Preparation Kit](
 ## Repository Structure
 
 ### **Week 1**
-- [Plus Minus]()
-- [Mini-Max Sum](week1/Mini-Max%20Sum/README.md)
-- [Time Conversion](week1/Time%20Conversion/README.md)
-- [Sparse Arrays](week1/Sparse%20Arrays/README.md)
-- [Lonely Integer](week1/Lonely%20Integer/README.md)
-- [Flipping Bits](week1/Flipping%20Bits/README.md)
-- [Diagonal Difference](week1/Diagonal%20Difference/README.md)
-- [Counting Sort 1](week1/Counting%20Sort%201/README.md)
-- [Pangrams](week1/Pangrams/README.md)
-- [Permuting Two Arrays](week1/Permuting%20Two%20Arrays/README.md)
-- [Subarray Division 1](week1/Subarray%20Division%201/README.md)
-- [XOR Strings 2](week1/XOR%20Strings%202/README.md)
+- [Plus Minus](./Week-01)
+- [Mini-Max Sum](./Week-01)
+- [Time Conversion](./Week-01)
+- [Sparse Arrays](./Week-01)
+- [Lonely Integer](./Week-01)
+- [Flipping Bits](./Week-01)
+- [Diagonal Difference](./Week-01)
+- [Counting Sort 1](./Week-01)
+- [Pangrams](./Week-01)
+- [Permuting Two Arrays](./Week-01)
+- [Subarray Division 1](./Week-01)
+- [XOR Strings 2](./Week-01)
 
 ### **Week 2**
 - [Grading Students]
