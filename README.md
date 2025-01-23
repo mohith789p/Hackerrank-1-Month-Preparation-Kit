@@ -11,7 +11,7 @@ This repository contains solutions for the [HackerRank 1 Month Preparation Kit](
 - [Mini-Max Sum](./Week-01)
 - [Time Conversion](./Week-01)
 - [Sparse Arrays](./Week-01)
-- [Lonely Integer](./Week-01)
+- [Lonely Integer](./Week-01/Lonely%20Integer.java)
 - [Flipping Bits](./Week-01)
 - [Diagonal Difference](./Week-01/Diagonal%20Difference.java)
 - [Counting Sort 1](./Week-01)
