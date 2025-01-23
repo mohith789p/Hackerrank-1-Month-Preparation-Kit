@@ -7,7 +7,7 @@ This repository contains solutions for the [HackerRank 1 Month Preparation Kit](
 ## Repository Structure
 
 ### **Week 1**
-- [Plus Minus](week1/Plus%20Minus/README.md)
+- [Plus Minus]()
 - [Mini-Max Sum](week1/Mini-Max%20Sum/README.md)
 - [Time Conversion](week1/Time%20Conversion/README.md)
 - [Sparse Arrays](week1/Sparse%20Arrays/README.md)
