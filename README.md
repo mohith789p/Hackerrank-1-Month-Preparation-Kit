@@ -13,7 +13,7 @@ This repository contains solutions for the [HackerRank 1 Month Preparation Kit](
 - [Sparse Arrays](./Week-01)
 - [Lonely Integer](./Week-01)
 - [Flipping Bits](./Week-01)
-- [Diagonal Difference](./Week-01)
+- [Diagonal Difference](./Week-01/Diagonal%20Difference.java)
 - [Counting Sort 1](./Week-01)
 - [Pangrams](./Week-01)
 - [Permuting Two Arrays](./Week-01)
