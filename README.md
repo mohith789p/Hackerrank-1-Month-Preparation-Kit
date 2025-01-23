@@ -1,7 +1,6 @@
 # HackerRank 1 Month Preparation Kit
 
-This repository contains solutions for the [HackerRank 1 Month Preparation Kit](https://www.hackerrank.com/interview/preparation-kits/one-month-preparation-kit/one-month-week-one/challenges), organized by weeks and individual challenges. Each folder includes well-documented code solutions and explanations to enhance problem-solving skills, aiding in technical interview preparation.
-
+This repository contains solutions for the [HackerRank 1 Month Preparation Kit](https://www.hackerrank.com/interview/preparation-kits/one-month-preparation-kit/one-month-week-one/challenges).
 ---
 
 ## Repository Structure
@@ -61,6 +60,6 @@ This repository contains solutions for the [HackerRank 1 Month Preparation Kit](
 
 To explore the solutions:
 1. Navigate to the desired week's folder.
-2. Open the specific challenge folder to view the solution.
+2. Open the specific challenge to view the solution.
 
 ---
