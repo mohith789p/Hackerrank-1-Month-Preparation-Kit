@@ -14,7 +14,7 @@ This repository contains solutions for the [HackerRank 1 Month Preparation Kit](
 - [Flipping Bits](./Week-01)
 - [Diagonal Difference](./Week-01/Diagonal%20Difference.java)
 - [Counting Sort 1](./Week-01)
-- [Pangrams](./Week-01)
+- [Pangrams](./Week-01/Pangrams.java)
 - [Permuting Two Arrays](./Week-01)
 - [Subarray Division 1](./Week-01)
 - [XOR Strings 2](./Week-01)
